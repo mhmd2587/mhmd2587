@@ -8,7 +8,10 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<h2 align="center">👨‍💻 Coding is not just a skill, it's a way of thinking!</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%" alt="Programming in Action" />
+</p>
 
 ## 🧰 Tech Toolbox
 
