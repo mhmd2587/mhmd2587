@@ -22,9 +22,9 @@
 
 ```cpp
 class MuhamedAlali {
-  int age = 15;
-  string country = "Syria (living in Turkey)";
-  string focus = "Web Development & Cybersecurity";
+  int age = 16;
+  string country = "Syria (living in France)";
+  string focus = "Web Development & Cybersecurity Learner";
   string goal = "Master the field by age 20";
   vector<string> languages = {
     "JavaScript", "C++", "PHP", "HTML", "CSS",
